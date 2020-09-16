@@ -21,10 +21,12 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Description
-Given Webpge meets accessibility standards
-Given webpage uses semantic HTML elements
-Added id and classes for identification of the attributes
-HTML elements have logical structure independent styling and positioning
-All the image have accessible alt and aria-label attributes
-Heder follow the sequential order of the navigation link
-Have a descriptive title
+
+```
+1. Given Webpge meets accessibility standards
+2.Given webpage uses semantic HTML elements
+3.Added id and classes for identification of the attributes
+4.HTML elements have logical structure independent styling and positioning
+5.All the image have accessible alt and aria-label attributes
+6.Heder follow the sequential order of the navigation link
+7.Have a descriptive title
